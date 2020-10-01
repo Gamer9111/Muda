@@ -1,6 +1,6 @@
 import discord, random
 from discord.ext import commands
-client=commands.Bot(command_prefix='!')
+client=commands.Bot(command_prefix='?')
 @client.command()
 async def ?fart(ctx):
     await ctx.send('fart')
