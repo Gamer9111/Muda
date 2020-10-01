@@ -1,1 +1,1 @@
-worker: python sure.py
+worker: python botcode.py
